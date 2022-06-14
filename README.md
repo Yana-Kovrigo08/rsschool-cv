@@ -1,2 +1,2 @@
-https://Yana-Kovrigo08.github.io/rsschool-cv/cv
-file:///C:/Users/admin/Desktop/rsschool-cv/rsschool-cv/index.html
+
+[README.md](https://github.com/Yana-Kovrigo08/rsschool-cv/files/8898419/README.md)
