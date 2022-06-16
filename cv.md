@@ -1,4 +1,1 @@
-Yana Kovrigo
-Contacts 375333286382
-From Belarus 
-Minsk city
+[cv.md](https://github.com/Yana-Kovrigo08/rsschool-cv/files/8898272/cv.md)

@@ -1,3 +1,53 @@
-NEWS
-news for today: С 04.06 в Беларуси дорожает топливо
-news for today: В связи с началом летнего сезона просим быть острожными с отдыхом на открытом воздухе. 
+
+.images-photo{
+    display: block;
+    margin: auto;
+}
+.into{
+        color:rgb(8, 3, 14)
+        font-weight: bold;
+        font-size: 30px;
+        text-align:center;
+    }
+    .nav-links{
+        font: italic bold 20px Arial, Helvetica, sans-serif;
+        color:rgb(8, 3, 14)
+    }
+    .nav-linkss{
+        font: italic bold 20px Arial, Helvetica, sans-serif;
+        color:rgb(8, 3, 14)
+    }
+    .nav-linkk{
+        font: italic bold 20px Arial, Helvetica, sans-serif;
+        color:rgb(8, 3, 14)
+    }
+    .education{
+        font: italic bold 20px Arial, Helvetica, sans-serif;
+        color:rgb(8, 3, 14)
+    }
+    .english{
+        font: italic bold 20px Arial, Helvetica, sans-serif;
+        color:rgb(8, 3, 14)
+    }
+    .nav-list{
+       font-size: 20px;
+       color:rgb(0, 3, 3);
+       line-height: 30px;
+       border: 2px solid rgb(0, 0, 0);
+       background-color: rgba(199, 106, 126, 0.466);
+       padding: 35px;
+       margin: 25px;
+    }
+    .footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        font-size: 20px;
+       color:rgb(0, 0, 0);
+       line-height: 20px;
+       border: 1.5px solid rgba(0, 0, 0, 0.5);
+       background-color: rgba(175, 13, 67, 0.671);
+       padding: 10px 60px 0 60px;
+       margin: 25px;
+      }
+     
