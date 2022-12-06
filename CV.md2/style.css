@@ -1,0 +1,270 @@
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+
+section {
+  display: block;
+}
+
+
+.container {
+  margin: 30px auto;
+  width: 1400px;
+  font-family: "Cabin", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: #ffffff;
+  box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+}
+
+
+.two_columns {
+  display: flex;
+}
+
+
+.left_columns {
+  width: 45%;
+  color: var(--dark-gray-color);
+  background-color: #d2d2d3;
+}
+
+
+header {
+  padding: 55px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+
+header img {
+  border-radius: 250px; /* Радиус скругления */
+  box-shadow: 0 0 7px #666;
+}
+
+
+header img:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+}
+
+
+header h1:hover {
+  color: #e9650e;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+
+main {
+  padding: 0 50px;
+}
+
+
+main .contacts h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  transform: translate(0, -50%);
+}
+
+
+main h2 {
+  margin: 40px auto 20px;
+  padding: 5px 20px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(75, 74, 74);
+  background-color: #ffe361;
+  font-size: 32px;
+  letter-spacing: 5px;
+}
+
+
+main h2:hover {
+  box-shadow: inset 0 0 0 5px #e9650e;
+}
+
+main li {
+  margin-bottom: 10px;
+}
+
+
+.contacts li img {
+  vertical-align: middle;
+  margin-right: 15px;
+}
+
+
+.contacts li p {
+  display: inline;
+  vertical-align: middle;
+  font-size: 24px;
+}
+
+
+main :not(.contacts) ul {
+  list-style-type: disc;
+  margin-left: 50px;
+}
+
+
+.skills,
+.languages li {
+  font-size: 24px;
+}
+
+
+.rigth_columns {
+  width: 58%;
+  padding: 40px;
+}
+
+
+.rigth_columns .about_myself .subtitle {
+  margin-top: 0;
+}
+
+
+.rigth_columns .subtitle {
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+
+.rigth_columns h2 {
+  flex: 1;
+  vertical-align: middle;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: black;
+  border-bottom: 4px solid #ffe361;
+  letter-spacing: 5px;
+}
+
+
+.rigth_columns h2:hover {
+  color: #e9650e;
+}
+
+
+.rigth_columns p {
+  color: rgb(75, 74, 74);
+  font-size: 24px;
+}
+
+
+.about_myself p {
+  margin-bottom: 10px;
+  margin-left: 45px;
+}
+
+
+.education p {
+  margin-left: 45px;
+}
+
+
+.courses ul {
+  list-style-type: disc;
+  margin-left: 45px;
+  margin-bottom: 30px;
+  font-size: 24px;
+  color: rgb(75, 74, 74);
+}
+
+
+.project {
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  font-size: 24px;
+}
+
+
+.project a {
+  text-decoration: none;
+  color: rgb(75, 74, 74);
+}
+
+
+.project a:hover {
+  color: #e9650e;
+}
+
+
+.code p {
+  margin-left: 45px;
+}
+
+
+.code code {
+  color: rgb(75, 74, 74);
+}
+
+
+pre {
+  margin-left: -220px;
+  font-family: monospace;
+  font-size: 30px;
+  background-color: #ffe361;
+}
+
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  font-size: 0.8rem;
+  color: #ffffff;
+  background-color: #ffe361;
+}
+
+
+.github {
+  display: flex;
+  align-items: center;
+}
+
+
+footer p:hover {
+  color: #e9650e;
+  font-size: 25px;
+}
+
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+
+.icon_github {
+  margin-right: 10px;
+}
+
+
+footer p {
+  font-size: 24px;
+  color: black;
+}
